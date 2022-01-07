@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T14:10:08.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-VoqvQCqJS1go22ZH4FX" version="16.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-07T14:27:41.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jkGNIy5yb1F8c1wb5u5b" version="16.1.0" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1577" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1208,6 +1208,23 @@
         </mxCell>
         <mxCell id="7jq37kxaJVU1GISUU03q-29" value="发送下一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=90;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry x="156" y="1382" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fmgfKjIGJ4As0B7JzTwM" name="缓冲区">
+    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="43OXlwZugmBd2kON9Lm3-0" />
+        <mxCell id="43OXlwZugmBd2kON9Lm3-1" parent="43OXlwZugmBd2kON9Lm3-0" />
+        <mxCell id="43OXlwZugmBd2kON9Lm3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=16;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="43OXlwZugmBd2kON9Lm3-1">
+          <mxGeometry x="140" y="130" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="43OXlwZugmBd2kON9Lm3-3" value="发送缓冲区" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=16;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="43OXlwZugmBd2kON9Lm3-1">
+          <mxGeometry x="155" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="43OXlwZugmBd2kON9Lm3-4" value="接收缓冲区" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=16;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="43OXlwZugmBd2kON9Lm3-1">
+          <mxGeometry x="155" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
