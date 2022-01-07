@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:52:56.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DWxUzYgykvnaejtQsVJ_" version="16.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:56:10.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="edWLkBGFev_tFEn1nrdq" version="16.1.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1577" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1184,6 +1184,9 @@
         </mxCell>
         <mxCell id="7jq37kxaJVU1GISUU03q-22" value="4. DATA_WRITE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry x="310" y="1047" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jq37kxaJVU1GISUU03q-23" value="收到数据&lt;br&gt;调用回调函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=90;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
+          <mxGeometry x="490" y="1150" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
