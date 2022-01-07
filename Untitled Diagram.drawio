@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T09:46:28.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PzRSmumJN7ZKhpjBG_RO" version="16.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:50:27.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WEyipgy9IDFx9rZ5iVtR" version="16.1.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1577" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1137,7 +1137,7 @@
         <mxCell id="7jq37kxaJVU1GISUU03q-10" value="注册发送数&lt;br&gt;据消息缓冲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=90;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry x="160" y="667" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7jq37kxaJVU1GISUU03q-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;strokeColor=default;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="7jq37kxaJVU1GISUU03q-1">
+        <mxCell id="7jq37kxaJVU1GISUU03q-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;strokeColor=default;strokeWidth=1;elbow=vertical;" edge="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="740" as="sourcePoint" />
             <mxPoint x="510" y="800" as="targetPoint" />
@@ -1149,7 +1149,7 @@
         <mxCell id="7jq37kxaJVU1GISUU03q-13" value="注册接收数&lt;br&gt;据消息缓冲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rotation=90;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry x="490" y="850" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7jq37kxaJVU1GISUU03q-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;strokeColor=default;strokeWidth=1;elbow=vertical;dashed=1;" edge="1" parent="7jq37kxaJVU1GISUU03q-1">
+        <mxCell id="7jq37kxaJVU1GISUU03q-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;strokeColor=default;strokeWidth=1;elbow=vertical;" edge="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="810" as="sourcePoint" />
             <mxPoint x="250" y="870" as="targetPoint" />
@@ -1157,6 +1157,15 @@
         </mxCell>
         <mxCell id="7jq37kxaJVU1GISUU03q-16" value="2. ACK" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
           <mxGeometry x="310" y="820" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7jq37kxaJVU1GISUU03q-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;strokeColor=default;strokeWidth=1;elbow=vertical;" edge="1" parent="7jq37kxaJVU1GISUU03q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="930" as="sourcePoint" />
+            <mxPoint x="250" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jq37kxaJVU1GISUU03q-18" value="3. BUFFER_RESPONSE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
+          <mxGeometry x="310" y="917" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
