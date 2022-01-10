@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T15:02:06.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mr_iM-_c0a-an0su3KvT" version="16.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-01-10T15:02:47.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sQoFjiPi1yNhHQUt9fG3" version="16.1.0" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1422,8 +1422,11 @@
       <root>
         <mxCell id="hllCc2udE2qe7d2dATRo-0" />
         <mxCell id="hllCc2udE2qe7d2dATRo-1" parent="hllCc2udE2qe7d2dATRo-0" />
-        <mxCell id="hllCc2udE2qe7d2dATRo-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;RDMA通道层&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
-          <mxGeometry x="120" y="160" width="160" height="80" as="geometry" />
+        <mxCell id="hllCc2udE2qe7d2dATRo-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
+          <mxGeometry x="220" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hllCc2udE2qe7d2dATRo-3" value="&lt;span&gt;RDMA通道层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
+          <mxGeometry x="240" y="125" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
