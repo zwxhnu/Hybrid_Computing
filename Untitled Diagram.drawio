@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T05:55:59.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kJSBNubVU9bflMzdDjuo" version="16.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-10T08:33:55.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bMisMxNk5wPty_vs-sjW" version="16.1.0" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1368,6 +1368,15 @@
         </mxCell>
         <mxCell id="YikWON6qsCvfrnev1J7s-10" value="硬件网卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Verdana;fontColor=#000000;" vertex="1" parent="YikWON6qsCvfrnev1J7s-1">
           <mxGeometry x="43" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YikWON6qsCvfrnev1J7s-11" value="缓冲区层" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="YikWON6qsCvfrnev1J7s-1">
+          <mxGeometry x="17" y="210" width="127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YikWON6qsCvfrnev1J7s-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YikWON6qsCvfrnev1J7s-1" source="YikWON6qsCvfrnev1J7s-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="410" as="sourcePoint" />
+            <mxPoint x="81" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
