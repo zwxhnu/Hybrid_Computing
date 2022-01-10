@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T15:08:42.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jvoRC9zF4JDDJc2mfADJ" version="16.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-01-10T15:10:23.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vywV_5ZVxfXQwaxU1-or" version="16.1.0" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1448,6 +1448,12 @@
         </mxCell>
         <mxCell id="hllCc2udE2qe7d2dATRo-11" value="发送等待队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
           <mxGeometry x="240" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hllCc2udE2qe7d2dATRo-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#007FFF;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
+          <mxGeometry x="249" y="175" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hllCc2udE2qe7d2dATRo-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#007FFF;" vertex="1" parent="hllCc2udE2qe7d2dATRo-1">
+          <mxGeometry x="280" y="175" width="21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
