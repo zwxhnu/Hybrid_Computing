@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:55:31.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="24fesifLzLwUCSkaFCW6" version="16.1.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:57:38.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZLFLh8UbNb6xHJtHmAWS" version="16.1.0" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1752,7 +1752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmvbruWGwo_HkFcw3aky" name="通信模型">
-    <mxGraphModel dx="1113" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-0" />
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-1" parent="z-3Hh_nzUeUgoVj138Dw-0" />
@@ -1905,6 +1905,12 @@
         </mxCell>
         <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-16" value="MPI 通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
           <mxGeometry x="755" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-17" value="ACI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
+          <mxGeometry x="150" y="50" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-18" value="Alchemist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
+          <mxGeometry x="980" y="50" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
