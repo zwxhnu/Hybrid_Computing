@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:57:38.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZLFLh8UbNb6xHJtHmAWS" version="16.1.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-01-12T12:42:58.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wz9eLhymbaTrHQujo9TI" version="16.1.0" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1752,7 +1752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmvbruWGwo_HkFcw3aky" name="通信模型">
-    <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-0" />
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-1" parent="z-3Hh_nzUeUgoVj138Dw-0" />
@@ -1852,10 +1852,10 @@
         <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-3" value="worker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
           <mxGeometry x="1080" y="240" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-4" value="工作组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
+        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-4" value="已分配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
           <mxGeometry x="840" y="295" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-5" value="空闲组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
+        <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-5" value="未分配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="z-3Hh_nzUeUgoVj138Dw-1">
           <mxGeometry x="1095" y="295" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CBnxAI3ZZwCAzpE2BjHJ-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="z-3Hh_nzUeUgoVj138Dw-1" source="z-3Hh_nzUeUgoVj138Dw-11">
