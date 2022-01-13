@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T12:30:24.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="08gVSRcO_TVmLVud17Eh" version="16.1.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-01-13T12:31:18.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="neAuzpSc8x0MBv3xOGyy" version="16.1.0" type="github" pages="16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2205,6 +2205,9 @@
         </mxCell>
         <mxCell id="NoiRI5pCnbas1BlA_aU9-6" value="executor 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
           <mxGeometry x="-30" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NoiRI5pCnbas1BlA_aU9-11" value="向内存池申请分配&lt;br&gt;发送、接收缓冲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+          <mxGeometry x="120" y="135" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
