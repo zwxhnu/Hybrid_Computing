@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:09:44.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7oPpeR2RkPoCpuEWFiAT" version="16.1.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-01-13T12:20:55.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jdqQmuzG2ag1OUVLlFCF" version="16.1.0" type="github" pages="16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2005,7 +2005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GKRUMXt8yIe8mW2DWkuo" name="矩阵行和进程之间的关系">
-    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hXfPtaej_JbBgP8p9SYw-0" />
         <mxCell id="hXfPtaej_JbBgP8p9SYw-1" parent="hXfPtaej_JbBgP8p9SYw-0" />
@@ -2186,6 +2186,14 @@
         <mxCell id="JhYxNNKJwCp07mus5Idb-36" value="分布式行矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;rotation=270;" vertex="1" parent="hXfPtaej_JbBgP8p9SYw-1">
           <mxGeometry x="50" y="360" width="120" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WSgJ6hBH1WAFsEeb62DU" name="客户端数据发送、接收过程">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NoiRI5pCnbas1BlA_aU9-0" />
+        <mxCell id="NoiRI5pCnbas1BlA_aU9-1" parent="NoiRI5pCnbas1BlA_aU9-0" />
       </root>
     </mxGraphModel>
   </diagram>
