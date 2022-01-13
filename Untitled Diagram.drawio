@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:04:14.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-mT5T5rhg0nFy83woG38" version="16.1.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-01-13T08:05:27.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RqpEG38ETgR2eP2kYKxy" version="16.1.0" type="github" pages="15">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2182,6 +2182,9 @@
             <mxPoint x="420" y="300" as="sourcePoint" />
             <mxPoint x="630" y="285" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JhYxNNKJwCp07mus5Idb-36" value="分布式行矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;rotation=270;" vertex="1" parent="hXfPtaej_JbBgP8p9SYw-1">
+          <mxGeometry x="50" y="360" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
