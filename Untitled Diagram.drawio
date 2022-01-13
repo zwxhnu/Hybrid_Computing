@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:04:36.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="P3Fv_GkZVUFAlM_KL-Da" version="16.1.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:05:21.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-U_FYOUlyZRCPdrh9i70" version="16.1.0" type="github" pages="16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2377,6 +2377,21 @@
         </mxCell>
         <mxCell id="QolpS2Ub1G_1u3tsSbYs-21" value="解析消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
           <mxGeometry x="140" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QolpS2Ub1G_1u3tsSbYs-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.562;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="NoiRI5pCnbas1BlA_aU9-1" source="QolpS2Ub1G_1u3tsSbYs-23" target="NoiRI5pCnbas1BlA_aU9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QolpS2Ub1G_1u3tsSbYs-23" value="RDMA 内存注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+          <mxGeometry x="468" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QolpS2Ub1G_1u3tsSbYs-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.562;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NoiRI5pCnbas1BlA_aU9-1" source="QolpS2Ub1G_1u3tsSbYs-15" target="QolpS2Ub1G_1u3tsSbYs-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="275" as="sourcePoint" />
+            <mxPoint x="620.0320000000002" y="274.78999999999996" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
