@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T12:58:02.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zufITwnVbepeSWBsfPeZ" version="16.1.0" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-01-13T12:58:16.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DjXr1YhOiLm9Xx8VKZ_G" version="16.1.0" type="github" pages="16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2221,7 +2221,7 @@
         <mxCell id="NoiRI5pCnbas1BlA_aU9-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
           <mxGeometry x="640" y="100" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NoiRI5pCnbas1BlA_aU9-17" value="接收缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+        <mxCell id="NoiRI5pCnbas1BlA_aU9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
           <mxGeometry x="640" y="400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NoiRI5pCnbas1BlA_aU9-18" value="调用Receive接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
@@ -2344,6 +2344,9 @@
             <mxPoint x="620" y="425" as="sourcePoint" />
             <mxPoint x="650" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QolpS2Ub1G_1u3tsSbYs-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#007FFF;" vertex="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+          <mxGeometry x="710" y="405" width="25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
