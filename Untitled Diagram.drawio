@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T11:12:52.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="tnuRE467wLnJ4DfBNmwr" version="16.2.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-01-25T11:14:54.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Eve6x3SxZEaCeHgz_q-c" version="16.2.6" type="github" pages="19">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2790,6 +2790,24 @@
         </mxCell>
         <mxCell id="annm9Bhnb1E2mfrow3qx-81" value="物理链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
           <mxGeometry x="590" y="570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-82" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215.5" y="337" as="sourcePoint" />
+            <mxPoint x="216" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-83" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="216.5" y="379" as="sourcePoint" />
+            <mxPoint x="217" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-84" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217.5" y="446.5" as="sourcePoint" />
+            <mxPoint x="218" y="487.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
