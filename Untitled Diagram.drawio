@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T12:55:45.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="g7Z6oryXvlrJxvdWG_1a" version="16.2.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-01-25T12:57:50.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mQoZFzQ4ayRm8tKc8qBS" version="16.2.6" type="github" pages="19">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2487,10 +2487,10 @@
       <root>
         <mxCell id="aylgFfZwvcN2FMWOOeWM-0" />
         <mxCell id="aylgFfZwvcN2FMWOOeWM-1" parent="aylgFfZwvcN2FMWOOeWM-0" />
-        <mxCell id="LXxsSiJasZut2Mo0SArh-21" value="以太网卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
+        <mxCell id="LXxsSiJasZut2Mo0SArh-21" value="以太网卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
           <mxGeometry x="330" y="305" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="LXxsSiJasZut2Mo0SArh-20" value="以太网卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=right;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
+        <mxCell id="LXxsSiJasZut2Mo0SArh-20" value="以太网卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=right;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
           <mxGeometry x="110" y="305" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LXxsSiJasZut2Mo0SArh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
