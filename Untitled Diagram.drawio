@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T10:56:45.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="crcRDlpMj3aWQktpEf5v" version="16.2.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2022-01-25T10:57:48.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="X2pQVe_VsRsk0SVzIATf" version="16.2.6" type="github" pages="19">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2574,6 +2574,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165" y="368" as="sourcePoint" />
             <mxPoint x="185" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;" edge="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="720" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-23" value="网络层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry x="20" y="352.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-24" value="数据链路层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-25" value="物理层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry x="20" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="annm9Bhnb1E2mfrow3qx-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;" edge="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="460" as="sourcePoint" />
+            <mxPoint x="720" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
