@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T12:03:53.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EhPEKjhXZWyVj77WK0Zj" version="16.1.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-01-25T09:54:32.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0BljfrUhNo1Ryc-3MsU1" version="16.2.6" type="github" pages="19">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
-    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -192,7 +192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZRZ5YKijFoPDQknGE1u_" name="matrixInfo">
-    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UaiH-fVov8VKYFWe7maj-0" />
         <mxCell id="UaiH-fVov8VKYFWe7maj-1" parent="UaiH-fVov8VKYFWe7maj-0" />
@@ -377,7 +377,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CpdEZqaih8CbjwOAgen8" name="send_matrix">
-    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="p30__GPZFqsawrCXSseF-0" />
         <mxCell id="p30__GPZFqsawrCXSseF-1" parent="p30__GPZFqsawrCXSseF-0" />
@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OtGV2vzzM4lmjGyNPo2f" name="get_matrix">
-    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ptKW0BEcy3zS4Qdhs4mS-0" />
         <mxCell id="ptKW0BEcy3zS4Qdhs4mS-1" parent="ptKW0BEcy3zS4Qdhs4mS-0" />
@@ -2478,6 +2478,28 @@
         </mxCell>
         <mxCell id="Bvjij0LJ35Lep_7sM1VY-27" value="Spark 应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="Bvjij0LJ35Lep_7sM1VY-1">
           <mxGeometry x="180" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p_g9MoSdtwt5XuZaudHv" name="RDMA 与 TCP 比较">
+    <mxGraphModel dx="943" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="aylgFfZwvcN2FMWOOeWM-0" />
+        <mxCell id="aylgFfZwvcN2FMWOOeWM-1" parent="aylgFfZwvcN2FMWOOeWM-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MlMvqRniIZvB3OOPK2U5" name="RDMA 通信模型">
+    <mxGraphModel dx="943" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WXxCBhy2hXXPUGduiqeC-0" />
+        <mxCell id="WXxCBhy2hXXPUGduiqeC-1" parent="WXxCBhy2hXXPUGduiqeC-0" />
+        <mxCell id="WXxCBhy2hXXPUGduiqeC-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;上层应用&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry x="120" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WXxCBhy2hXXPUGduiqeC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="WXxCBhy2hXXPUGduiqeC-1">
+          <mxGeometry x="110" y="200" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
