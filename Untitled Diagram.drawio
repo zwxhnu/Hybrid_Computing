@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T08:53:17.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2FCu9lVROwVfae1QEngL" version="16.2.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-02-06T06:06:37.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="E9bs3GmLvNQhynA0xx6N" version="16.2.6" type="github" pages="20">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1752,7 +1752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmvbruWGwo_HkFcw3aky" name="通信模型">
-    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-0" />
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-1" parent="z-3Hh_nzUeUgoVj138Dw-0" />
@@ -2005,7 +2005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GKRUMXt8yIe8mW2DWkuo" name="矩阵行和进程之间的关系">
-    <mxGraphModel dx="943" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hXfPtaej_JbBgP8p9SYw-0" />
         <mxCell id="hXfPtaej_JbBgP8p9SYw-1" parent="hXfPtaej_JbBgP8p9SYw-0" />
@@ -2190,7 +2190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WSgJ6hBH1WAFsEeb62DU" name="客户端数据发送、接收过程">
-    <mxGraphModel dx="1770" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NoiRI5pCnbas1BlA_aU9-0" />
         <mxCell id="NoiRI5pCnbas1BlA_aU9-1" parent="NoiRI5pCnbas1BlA_aU9-0" />
@@ -2397,7 +2397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CXG_RFQbNWposOPbUs2X" name="控制路径和数据路径分离">
-    <mxGraphModel dx="943" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bvjij0LJ35Lep_7sM1VY-0" />
         <mxCell id="Bvjij0LJ35Lep_7sM1VY-1" parent="Bvjij0LJ35Lep_7sM1VY-0" />
@@ -2483,7 +2483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p_g9MoSdtwt5XuZaudHv" name="RDMA 与 TCP 比较">
-    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aylgFfZwvcN2FMWOOeWM-0" />
         <mxCell id="aylgFfZwvcN2FMWOOeWM-1" parent="aylgFfZwvcN2FMWOOeWM-0" />
@@ -2606,6 +2606,18 @@
         </mxCell>
         <mxCell id="LXxsSiJasZut2Mo0SArh-44" value="DMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
           <mxGeometry x="720" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn1i01l1jk0JT1LUStH5-0" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;" edge="1" parent="aylgFfZwvcN2FMWOOeWM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="153" as="sourcePoint" />
+            <mxPoint x="830" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qn1i01l1jk0JT1LUStH5-1" value="用户空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
+          <mxGeometry x="10" y="122.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn1i01l1jk0JT1LUStH5-4" value="内核空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="aylgFfZwvcN2FMWOOeWM-1">
+          <mxGeometry x="10" y="215" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
