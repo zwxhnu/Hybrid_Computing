@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T04:14:15.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NbeqnNP_lKU8Lf2_BW9x" version="16.5.3" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-02-08T04:16:49.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="etpbIpkpZTm2h3wMH0dR" version="16.5.3" type="github" pages="21">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3466,6 +3466,33 @@
             <mxPoint x="167" y="554" as="sourcePoint" />
             <mxPoint x="167.04999999999995" y="523.9300000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="585" as="sourcePoint" />
+            <mxPoint x="290" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-36" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry x="200" y="585" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;dashed=1;" edge="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="583" as="sourcePoint" />
+            <mxPoint x="468" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-38" value="MPI 通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry x="368" y="585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=5;" edge="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="584" as="sourcePoint" />
+            <mxPoint x="630" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WREbxKh5U3uNjhMRpm54-40" value="动态链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry x="516" y="585" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
