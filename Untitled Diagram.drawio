@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T14:01:47.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="aKnuE4Ev4R1VbLcs7hyw" version="16.5.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-02-11T14:06:47.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x888t9Kps7sPFyPqsQVN" version="16.5.3" type="github" pages="22">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1039,6 +1039,21 @@
         </mxCell>
         <mxCell id="9vS-z7awHKgcqDDsg0c3-4" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;" vertex="1" parent="38XVP6i9C8tModRcJPqn-1">
           <mxGeometry x="280" y="448" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vS-z7awHKgcqDDsg0c3-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endSize=5.6;strokeWidth=3;width=6;" edge="1" parent="38XVP6i9C8tModRcJPqn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="824" y="78" as="sourcePoint" />
+            <mxPoint x="724" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9vS-z7awHKgcqDDsg0c3-6" value="接口抽象层，提供易于使用的 API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="38XVP6i9C8tModRcJPqn-1">
+          <mxGeometry x="830" y="50" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9vS-z7awHKgcqDDsg0c3-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endSize=5.6;strokeWidth=3;width=6;" edge="1" parent="38XVP6i9C8tModRcJPqn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="834" y="88" as="sourcePoint" />
+            <mxPoint x="734" y="128" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
