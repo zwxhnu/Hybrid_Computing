@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T08:08:03.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kKtXct1R0teLXEQL4Eul" version="16.5.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-02-13T08:10:35.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iTfYxUlpCuVtlZNMkfVk" version="16.5.3" type="github" pages="22">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1752,7 +1752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmvbruWGwo_HkFcw3aky" name="通信模型">
-    <mxGraphModel dx="1261" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-0" />
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-1" parent="z-3Hh_nzUeUgoVj138Dw-0" />
@@ -2387,19 +2387,19 @@
             <mxPoint x="608" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VbYLoPpqMVs-7koa6deu-0" value="缓冲区层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="NoiRI5pCnbas1BlA_aU9-1" vertex="1">
-          <mxGeometry x="789" y="140" width="90" height="30" as="geometry" />
+        <mxCell id="VbYLoPpqMVs-7koa6deu-0" value="缓冲区管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="NoiRI5pCnbas1BlA_aU9-1" vertex="1">
+          <mxGeometry x="788" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VbYLoPpqMVs-7koa6deu-1" value="适配器层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="NoiRI5pCnbas1BlA_aU9-1" vertex="1">
-          <mxGeometry x="796" y="394" width="90" height="30" as="geometry" />
+        <mxCell id="VbYLoPpqMVs-7koa6deu-1" value="硬件适配模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="NoiRI5pCnbas1BlA_aU9-1" vertex="1">
+          <mxGeometry x="800" y="394" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DjHkAGMqDvqigYPFH41e-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+        <mxCell id="DjHkAGMqDvqigYPFH41e-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="NoiRI5pCnbas1BlA_aU9-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="320" as="sourcePoint" />
             <mxPoint x="978" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjHkAGMqDvqigYPFH41e-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="NoiRI5pCnbas1BlA_aU9-1">
+        <mxCell id="DjHkAGMqDvqigYPFH41e-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="NoiRI5pCnbas1BlA_aU9-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="851" y="390" as="sourcePoint" />
             <mxPoint x="979" y="390" as="targetPoint" />
@@ -2409,7 +2409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CXG_RFQbNWposOPbUs2X" name="控制路径和数据路径分离">
-    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Bvjij0LJ35Lep_7sM1VY-0" />
         <mxCell id="Bvjij0LJ35Lep_7sM1VY-1" parent="Bvjij0LJ35Lep_7sM1VY-0" />
