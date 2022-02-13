@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T14:17:33.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fU2yFCSQUnZZPI2TzM6T" version="16.5.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-02-13T08:00:03.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Fl222NwJYflPcQJrUOPF" version="16.5.3" type="github" pages="22">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1000,7 +1000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YtGx70eIykewD8YWGmXe" name="rdma_protocol">
-    <mxGraphModel dx="996" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="38XVP6i9C8tModRcJPqn-0" />
         <mxCell id="38XVP6i9C8tModRcJPqn-1" parent="38XVP6i9C8tModRcJPqn-0" />
@@ -1039,23 +1039,6 @@
         </mxCell>
         <mxCell id="9vS-z7awHKgcqDDsg0c3-4" value="NIC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;" vertex="1" parent="38XVP6i9C8tModRcJPqn-1">
           <mxGeometry x="280" y="448" width="440" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9vS-z7awHKgcqDDsg0c3-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endSize=5.6;strokeWidth=3;width=3;" edge="1" parent="38XVP6i9C8tModRcJPqn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="170.47" as="sourcePoint" />
-            <mxPoint x="278" y="170.47" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9vS-z7awHKgcqDDsg0c3-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endSize=5.6;strokeWidth=3;width=3;entryX=0.997;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="38XVP6i9C8tModRcJPqn-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="168.68000000000006" y="269.49" as="sourcePoint" />
-            <mxPoint x="280" y="269.47" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9vS-z7awHKgcqDDsg0c3-14" value="Vertical Container" style="swimlane;fontSize=18;strokeWidth=2;" vertex="1" parent="38XVP6i9C8tModRcJPqn-1">
-          <mxGeometry x="780" y="60" width="200" height="200" as="geometry">
-            <mxRectangle x="780" y="60" width="190" height="30" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1386,7 +1369,7 @@
         <mxCell id="YikWON6qsCvfrnev1J7s-10" value="硬件网卡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Verdana;fontColor=#000000;" parent="YikWON6qsCvfrnev1J7s-1" vertex="1">
           <mxGeometry x="240" y="400" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YikWON6qsCvfrnev1J7s-11" value="缓冲区层" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fillColor=#FFFFFF;" parent="YikWON6qsCvfrnev1J7s-1" vertex="1">
+        <mxCell id="YikWON6qsCvfrnev1J7s-11" value="缓冲区管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fillColor=#FFFFFF;" parent="YikWON6qsCvfrnev1J7s-1" vertex="1">
           <mxGeometry x="-14" y="220" width="127" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YikWON6qsCvfrnev1J7s-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=16;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="YikWON6qsCvfrnev1J7s-1" source="YikWON6qsCvfrnev1J7s-3" target="YikWON6qsCvfrnev1J7s-14" edge="1">
@@ -1398,7 +1381,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YikWON6qsCvfrnev1J7s-14" value="适配器层" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fillColor=#FFFFFF;" parent="YikWON6qsCvfrnev1J7s-1" vertex="1">
+        <mxCell id="YikWON6qsCvfrnev1J7s-14" value="硬件适配模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fillColor=#FFFFFF;" parent="YikWON6qsCvfrnev1J7s-1" vertex="1">
           <mxGeometry x="627" y="281" width="127" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YikWON6qsCvfrnev1J7s-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Verdana;fontSize=16;fontColor=#000000;" parent="YikWON6qsCvfrnev1J7s-1" edge="1">
