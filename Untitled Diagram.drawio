@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T08:34:20.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xA5V9Rx-4Md1MIe5dzS1" version="16.5.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-02-13T08:35:58.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="N0FOo2GAUMlEUkyWcXKT" version="16.5.3" type="github" pages="23">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3587,7 +3587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ajVBAoBzppUrLqYyTjsz" name="零拷贝机制通信流程">
-    <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="y2qcMbfu821YCHDJAigA-0" />
         <mxCell id="y2qcMbfu821YCHDJAigA-1" parent="y2qcMbfu821YCHDJAigA-0" />
@@ -3620,6 +3620,24 @@
         </mxCell>
         <mxCell id="lWpQKY229oHDjRGf00Ua-9" value="SQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="y2qcMbfu821YCHDJAigA-1">
           <mxGeometry x="157" y="380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lWpQKY229oHDjRGf00Ua-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;strokeWidth=3;" edge="1" parent="y2qcMbfu821YCHDJAigA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lWpQKY229oHDjRGf00Ua-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=18;strokeWidth=3;" edge="1" parent="y2qcMbfu821YCHDJAigA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="440" as="sourcePoint" />
+            <mxPoint x="770" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lWpQKY229oHDjRGf00Ua-12" value="用户空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="y2qcMbfu821YCHDJAigA-1">
+          <mxGeometry x="-120" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lWpQKY229oHDjRGf00Ua-13" value="内核空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="y2qcMbfu821YCHDJAigA-1">
+          <mxGeometry x="-120" y="326" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
