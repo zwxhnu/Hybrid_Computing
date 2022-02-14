@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T00:40:19.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="t1Qv8ralT6mt-TTbOEw8" version="16.5.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-02-14T00:40:59.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="V3WqHNzjEcgwzJKqgAt4" version="16.5.3" type="github" pages="23">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1220,6 +1220,12 @@
             <mxPoint x="630" y="540" as="sourcePoint" />
             <mxPoint x="630" y="1480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ad42YIxu6KpPwhEN_bTG-2" value="发送缓冲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
+          <mxGeometry x="70" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ad42YIxu6KpPwhEN_bTG-3" value="接收缓冲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="7jq37kxaJVU1GISUU03q-1">
+          <mxGeometry x="560" y="490" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
