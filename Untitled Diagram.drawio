@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T12:50:57.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="COGnTZrJj8jugqWLrT-l" version="16.5.3" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-02-14T12:54:44.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nhC8COY6McWAmSfb7Gye" version="16.5.3" type="github" pages="24">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
-    <mxGraphModel dx="1051" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -493,10 +493,10 @@
           <mxGeometry x="806" y="309.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="k3moy7tZcVvM8CqgZL6T-28" value="worker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="p30__GPZFqsawrCXSseF-1" vertex="1">
-          <mxGeometry x="676" y="457.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="660" y="457.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="k3moy7tZcVvM8CqgZL6T-30" value="worker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="p30__GPZFqsawrCXSseF-1" vertex="1">
-          <mxGeometry x="783" y="457.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="800" y="457.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="k3moy7tZcVvM8CqgZL6T-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;fontSize=19;endArrow=classic;endFill=1;endSize=6;" parent="p30__GPZFqsawrCXSseF-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -545,6 +545,9 @@
         </mxCell>
         <mxCell id="YaEp9RDp2LkOfmI9tcOu-0" value="Alchemist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="p30__GPZFqsawrCXSseF-1">
           <mxGeometry x="791" y="222" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AcImhRYf4ZdanntN9rfB-0" value="worker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="p30__GPZFqsawrCXSseF-1">
+          <mxGeometry x="730" y="457.5" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
