@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T09:42:53.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wRy8dYK3B0OKvBk3ZLFL" version="16.5.3" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-02-15T09:43:36.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VUCQ1fsh46tPf7VQzrrI" version="16.5.3" type="github" pages="24">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3411,7 +3411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ow3IKBqL0JtH88pR_dUC" name="通信模型">
-    <mxGraphModel dx="823" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iF--0w9hZLWyxTdMcX---0" />
         <mxCell id="iF--0w9hZLWyxTdMcX---1" parent="iF--0w9hZLWyxTdMcX---0" />
@@ -3577,8 +3577,8 @@
         </mxCell>
         <mxCell id="WREbxKh5U3uNjhMRpm54-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;" parent="iF--0w9hZLWyxTdMcX---1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="585" as="sourcePoint" />
-            <mxPoint x="290" y="585" as="targetPoint" />
+            <mxPoint x="180" y="580" as="sourcePoint" />
+            <mxPoint x="290" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WREbxKh5U3uNjhMRpm54-36" value="TCP/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
@@ -3586,18 +3586,12 @@
         </mxCell>
         <mxCell id="WREbxKh5U3uNjhMRpm54-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;dashed=1;" parent="iF--0w9hZLWyxTdMcX---1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="583" as="sourcePoint" />
-            <mxPoint x="468" y="583" as="targetPoint" />
+            <mxPoint x="358" y="579" as="sourcePoint" />
+            <mxPoint x="468" y="579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WREbxKh5U3uNjhMRpm54-38" value="MPI 通信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
           <mxGeometry x="368" y="585" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WREbxKh5U3uNjhMRpm54-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;width=5;endSize=5;startSize=5;" parent="iF--0w9hZLWyxTdMcX---1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="521" y="584" as="sourcePoint" />
-            <mxPoint x="630" y="584" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WREbxKh5U3uNjhMRpm54-40" value="动态链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
           <mxGeometry x="516" y="585" width="90" height="30" as="geometry" />
@@ -3642,6 +3636,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="606" y="473" as="sourcePoint" />
             <mxPoint x="610" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6BLXlVjx9HXhFDMAmiM-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=24;startSize=5;endSize=5;width=5;" edge="1" parent="iF--0w9hZLWyxTdMcX---1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="506" y="578.23" as="sourcePoint" />
+            <mxPoint x="616" y="578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
