@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T03:00:57.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7k3sU0CHvBAkbuTBt2aW" version="16.5.3" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2022-02-17T03:01:57.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lQJV9DbgCb0dcEzAYR7J" version="16.5.3" type="github" pages="26">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4245,13 +4245,13 @@
         <mxCell id="FGu1XYIdK8xq5IIw7aw8-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;SN2100&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
           <mxGeometry x="330" y="250" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FGu1XYIdK8xq5IIw7aw8-3" value="机器 B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
+        <mxCell id="FGu1XYIdK8xq5IIw7aw8-3" value="主机 B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
           <mxGeometry x="314" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FGu1XYIdK8xq5IIw7aw8-4" value="机器 C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
+        <mxCell id="FGu1XYIdK8xq5IIw7aw8-4" value="主机 C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
           <mxGeometry x="445" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FGu1XYIdK8xq5IIw7aw8-5" value="机器 A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
+        <mxCell id="FGu1XYIdK8xq5IIw7aw8-5" value="主机 A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="FGu1XYIdK8xq5IIw7aw8-1">
           <mxGeometry x="374" y="329" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FGu1XYIdK8xq5IIw7aw8-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;startSize=5;endSize=5;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FGu1XYIdK8xq5IIw7aw8-1" source="FGu1XYIdK8xq5IIw7aw8-5">
