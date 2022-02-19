@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T05:30:15.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="cgf_zvwpzN1ZrF8dQ9Nn" version="16.5.3" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-02-19T05:32:37.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x314kfwHa6j8fWl7TQ5L" version="16.5.3" type="github" pages="27">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4304,7 +4304,7 @@
         <mxCell id="qtRMdKpfNVlH6dOyRdVl-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;HCatalog&lt;br&gt;（元数据存储）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
           <mxGeometry x="378.5" y="420" width="221.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qtRMdKpfNVlH6dOyRdVl-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;HBase&lt;br&gt;（非关系型数据库）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
+        <mxCell id="qtRMdKpfNVlH6dOyRdVl-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;HBase&lt;br&gt;（实时、分布式）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
           <mxGeometry x="620.75" y="420" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qtRMdKpfNVlH6dOyRdVl-9" value="&lt;font style=&quot;font-size: 24px&quot;&gt;HDFS&lt;br&gt;（分布式文件系统）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
@@ -4318,6 +4318,18 @@
         </mxCell>
         <mxCell id="qtRMdKpfNVlH6dOyRdVl-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Hive&lt;br&gt;（数据仓库）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
           <mxGeometry x="620" y="240" width="221.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRMdKpfNVlH6dOyRdVl-15" value="&lt;font face=&quot;Helvetica&quot;&gt;编程语言&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
+          <mxGeometry x="870" y="255" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRMdKpfNVlH6dOyRdVl-16" value="&lt;font face=&quot;Helvetica&quot;&gt;计算框架&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
+          <mxGeometry x="870" y="345" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRMdKpfNVlH6dOyRdVl-17" value="&lt;font face=&quot;Helvetica&quot;&gt;表存储&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
+          <mxGeometry x="880" y="435" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qtRMdKpfNVlH6dOyRdVl-18" value="&lt;font face=&quot;Helvetica&quot;&gt;对象存储&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Comic Sans MS;" vertex="1" parent="qtRMdKpfNVlH6dOyRdVl-1">
+          <mxGeometry x="870" y="525" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
