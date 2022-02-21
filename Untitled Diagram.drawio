@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T14:48:23.391Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KpirSADKPRZ3qqxfT71L" version="16.6.1" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-02-21T14:49:52.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wYfdEx5wk4cShEF5xD0d" version="16.6.1" type="github" pages="28">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4420,7 +4420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XZqUj_F4aajghLo0yPZ1" name="pipeline">
-    <mxGraphModel dx="946" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KLzmHwMygsQ0Q7iGrPfP-0" />
         <mxCell id="KLzmHwMygsQ0Q7iGrPfP-1" parent="KLzmHwMygsQ0Q7iGrPfP-0" />
@@ -4463,8 +4463,8 @@
         <mxCell id="KLzmHwMygsQ0Q7iGrPfP-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLzmHwMygsQ0Q7iGrPfP-1">
           <mxGeometry x="430" y="150" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KLzmHwMygsQ0Q7iGrPfP-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;模型训练&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLzmHwMygsQ0Q7iGrPfP-1">
-          <mxGeometry x="470" y="160" width="110" height="80" as="geometry" />
+        <mxCell id="KLzmHwMygsQ0Q7iGrPfP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLzmHwMygsQ0Q7iGrPfP-1">
+          <mxGeometry x="450" y="160" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KLzmHwMygsQ0Q7iGrPfP-18" value="" style="endArrow=classic;html=1;rounded=0;startSize=4;endSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KLzmHwMygsQ0Q7iGrPfP-1" target="KLzmHwMygsQ0Q7iGrPfP-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4495,6 +4495,9 @@
             <mxPoint x="610" y="200" as="sourcePoint" />
             <mxPoint x="660" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KLzmHwMygsQ0Q7iGrPfP-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;特征工程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="KLzmHwMygsQ0Q7iGrPfP-1">
+          <mxGeometry x="420" y="190" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
