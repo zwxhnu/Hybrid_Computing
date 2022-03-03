@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T07:29:27.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9VAC7cPYRtxG_odgcNLg" version="16.6.1" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2022-03-03T07:30:48.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="XS9qlZb8E7XyAgGgp12r" version="16.6.1" type="github" pages="28">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1860,7 +1860,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pmvbruWGwo_HkFcw3aky" name="通信模型">
-    <mxGraphModel dx="1261" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-0" />
         <mxCell id="z-3Hh_nzUeUgoVj138Dw-1" parent="z-3Hh_nzUeUgoVj138Dw-0" />
@@ -3481,7 +3481,7 @@
         <mxCell id="dJSi_7hggkKyx62TSpjp-18" value="ACI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
           <mxGeometry x="130" y="500" width="72.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dJSi_7hggkKyx62TSpjp-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Alchemist&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
+        <mxCell id="dJSi_7hggkKyx62TSpjp-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Alchemist-core&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
           <mxGeometry x="270" y="120" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2M7jWy9ger3q9kbhn-7j-0" value="worker" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="iF--0w9hZLWyxTdMcX---1" vertex="1">
@@ -3699,7 +3699,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vr8swyQ6ysla5AlP1RTc-0" value="" style="endArrow=classic;html=1;rounded=0;startSize=4;endSize=4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iF--0w9hZLWyxTdMcX---1" target="dJSi_7hggkKyx62TSpjp-14">
+        <mxCell id="Vr8swyQ6ysla5AlP1RTc-0" value="" style="endArrow=classic;html=1;rounded=0;startSize=4;endSize=4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="iF--0w9hZLWyxTdMcX---1" target="dJSi_7hggkKyx62TSpjp-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="220" as="sourcePoint" />
             <mxPoint x="390" y="350" as="targetPoint" />
