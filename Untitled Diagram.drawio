@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T12:46:45.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Yqhv_rs9Oidj58Zosn5K" version="16.6.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-03-05T12:47:03.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MZdlwEhsy2lWOWFW_THx" version="16.6.1" type="github" pages="29">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4561,7 +4561,7 @@
         <mxCell id="JGxkm-e8y7AABdYhnFbo-5" value="driver 是否建立连接" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="95" y="200" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
+        <mxCell id="JGxkm-e8y7AABdYhnFbo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="510" y="120" width="160" height="340" as="geometry" />
         </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-7" value="Alchemist-core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
