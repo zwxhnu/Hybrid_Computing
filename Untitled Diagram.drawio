@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T12:56:33.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GB1BFq9TW-o-pVnH6uKe" version="16.6.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-03-05T12:56:54.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EHTEBTZ-b-l4T24bsShI" version="16.6.1" type="github" pages="29">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4605,6 +4605,12 @@
         </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-23" value="&lt;span&gt;初始化 MPI 进程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="486" y="125" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JGxkm-e8y7AABdYhnFbo-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;entryX=-0.006;entryY=0.56;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1" target="JGxkm-e8y7AABdYhnFbo-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="309.5" as="sourcePoint" />
+            <mxPoint x="455" y="310.02" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
