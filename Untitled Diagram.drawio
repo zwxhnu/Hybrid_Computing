@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T13:05:57.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LKo34NTwdyIga7KLoiOk" version="16.6.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-03-05T13:07:06.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="174kAQaZGODHDp8-mYOi" version="16.6.1" type="github" pages="29">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4558,12 +4558,6 @@
         <mxCell id="JGxkm-e8y7AABdYhnFbo-4" value="ACI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="175" y="90" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="480" y="119" width="160" height="451" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-7" value="Alchemist-core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="495" y="89" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-10" value="&lt;span&gt;请求分配 worker&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="120" y="290" width="160" height="40" as="geometry" />
         </mxCell>
@@ -4588,26 +4582,8 @@
             <mxPoint x="210" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="230" as="sourcePoint" />
-            <mxPoint x="460" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="205" y="259" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-20" value="请求建立连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="330" y="200" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-23" value="&lt;span&gt;初始化 MPI 进程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="486" y="125" width="150" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="309.5" as="sourcePoint" />
-            <mxPoint x="460" y="310" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-27" value="&lt;span&gt;发送矩阵元数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="127.5" y="429" width="145" height="40" as="geometry" />
@@ -4617,27 +4593,6 @@
             <mxPoint x="260" y="310" as="sourcePoint" />
             <mxPoint x="310" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-30" value="节点数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="345" y="280" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1" source="JGxkm-e8y7AABdYhnFbo-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="379.6" as="sourcePoint" />
-            <mxPoint x="480" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-32" value="链接库名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="330" y="350" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="448.5" as="sourcePoint" />
-            <mxPoint x="450" y="449" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JGxkm-e8y7AABdYhnFbo-34" value="矩阵元数据信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
-          <mxGeometry x="295" y="420" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JGxkm-e8y7AABdYhnFbo-37" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;driver 建立连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
           <mxGeometry x="125" y="200" width="160" height="40" as="geometry" />
