@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:49:34.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="nfI47D8mfS-UVKTeLj2b" version="16.6.6" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-03-06T08:50:35.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="O2dWTpZ8dVwqGADUy519" version="16.6.6" type="github" pages="29">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4596,6 +4596,9 @@
             <mxPoint x="755" y="290" as="sourcePoint" />
             <mxPoint x="805" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="O6ntaJng95vbgbh--yBh-10" value="控制路径操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
+          <mxGeometry x="125" y="290" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
