@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T09:30:51.132Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="G9pB5nEBBrMDPdke8xOP" version="16.6.6" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-03-06T09:32:00.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZXOzVX21ijNJ7GKkw2wP" version="16.6.6" type="github" pages="29">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="request_workers">
     <mxGraphModel dx="1351" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4739,6 +4739,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="360" as="sourcePoint" />
             <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6ntaJng95vbgbh--yBh-59" value="控制路径操作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;gradientColor=#ffffff;dashed=1;" vertex="1" parent="JGxkm-e8y7AABdYhnFbo-1">
+          <mxGeometry x="410.5" y="517" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O6ntaJng95vbgbh--yBh-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JGxkm-e8y7AABdYhnFbo-1" source="O6ntaJng95vbgbh--yBh-57" target="O6ntaJng95vbgbh--yBh-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="290" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
